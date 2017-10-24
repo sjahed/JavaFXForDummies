@@ -1,0 +1,14 @@
+.root{
+	-fx-background-color: lightgrey;
+	-fx-font-family: "sans";
+	-fx-font-size: 12pt;
+}
+
+.button{
+	-fx-background-color: aliceblue;
+	-fx-boder-color: black;
+	-fx-border-style: dashed;
+}
+#btn-ok{
+	-fx-font-size: 13;
+}
